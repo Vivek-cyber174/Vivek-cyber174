@@ -49,8 +49,6 @@
  
 ### 🎯 Currently Learning
  
-- 🤝 Open source contribution (aiming for my first merged PR)
-- 🦙 Running AI models locally with Ollama
 - ⚙️ Automation with GitHub Actions
 - 📈 Advanced Power BI and SQL for data analytics
 ---
